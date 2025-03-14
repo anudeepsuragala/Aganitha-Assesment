@@ -39,12 +39,11 @@ class Chain:
             {job_description}
     
             ### INSTRUCTIONS:
-            you are Anudeep , a business development at Atliq, atliq is an ai & software consulting company dedicated 
-            seamless intergration of business process  through automated tools.
+            you are Anudeep , a business development at Aganitha, Aganitha is an ai & software consulting company dedicated seamless intergration of business process  through automated tools.
             over our experience, we have empowered numerous enterprices   with tailored solution process , optimization , cost reduction , increase efficency.
             Your job is to write cold mail to the client  regarding the job mentioned above describing the capability  in their fulfilling their needs
-            also add the most relevent ones from the following links  to show case Atliq's portfolio:{link_list} 
-            remeber you are anudeep , bde at Atliq
+            also add the most relevent ones from the following links  to show case Aganitha portfolio:{link_list} 
+            remeber you are anudeep , bde at Aganitha
             Do not provide preamble.
             ### EMAIL (NO PREAMBLE):
     

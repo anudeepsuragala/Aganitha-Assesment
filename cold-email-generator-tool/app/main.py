@@ -8,7 +8,7 @@ from utlis import clean_text
 
 
 def create_streamlit_app(model, portfolio, clean_text):
-    st.title("📧 Cold Mail Generator")
+    st.title("📧  Aganitha Cold Mail Generator")
     url_input = st.text_input("Enter a URL:", value="https://www.amazon.jobs/en/jobs/2916022/software-development-engineer-i")
     submit_button = st.button("Submit")
 
